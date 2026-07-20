@@ -17,8 +17,7 @@ export default function Navbar() {
           <a href="#pricing" onClick={() => setOpen(false)}>Pricing</a>
           <a href="#contact" onClick={() => setOpen(false)}>Contact</a>
           <div className="nav-actions-mobile">
-            <button className="btn btn-outline btn-block">Login</button>
-            <button className="btn btn-primary btn-block">Get Started</button>
+           
           </div>
         </div>
 
