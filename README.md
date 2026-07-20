@@ -1,6 +1,4 @@
-
-https://github.com/user-attachments/assets/8da2e8da-deaa-4f8b-a553-431a56e3a1b7
-# TeamPulse — Responsive SaaS Landing Page (React)
+# TeamPulse Responsive SaaS Landing Page (React)
 
 A responsive marketing landing page for **TeamPulse**, a team-analytics dashboard SaaS.
 This is the marketing site only — no working dashboard functionality, per the assignment.
